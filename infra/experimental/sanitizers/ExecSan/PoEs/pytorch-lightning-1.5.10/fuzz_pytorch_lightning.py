@@ -23,7 +23,6 @@ The original report documents an exploit using a specific environment variable,
 we show a way to achieve the same exploit with an arbitrary env variable.
 """
 
-
 import os
 import random
 import string
